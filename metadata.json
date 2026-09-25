@@ -1,0 +1,8 @@
+{
+  "name": "RuangMomen - Undangan Digital Modern & Elegan",
+  "description": "Platform undangan digital modern, elegan, dan personal untuk pernikahan, lamaran, ulang tahun, dan event spesial dengan pemesanan cepat dan katalog tema eksklusif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
